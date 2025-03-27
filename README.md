@@ -7,3 +7,4 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 # Gloss2Text
 ## 2024
 - Gloss2Text: Sign Language Gloss translation using LLMs and Semantically Aware Label Smoothing [EMNLP-ccfb][[Paper](https://arxiv.org/pdf/2407.01394)][[Code](https://github.com/pooyafayyaz/Gloss2Text/tree/main)]
+- Towards Privacy-Aware Sign Language Translation at Scale [[Paper](https://aclanthology.org/2024.acl-long.467.pdf)]
